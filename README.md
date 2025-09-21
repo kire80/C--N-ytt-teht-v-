@@ -26,6 +26,11 @@ Avaa aiemmin tallennetun datan jos sellaista on.
 
 
 
+
+
+
+
+
 <img width="832" height="442" alt="Näyttökuva 2025-09-21 233333" src="https://github.com/user-attachments/assets/d35be0d6-44db-4a01-8770-db76578694e9" />
 
 Lisää keskien arvon keksien määrään kun keksin kuvaa painaa, ja toistaa keksin painamis animaation.
