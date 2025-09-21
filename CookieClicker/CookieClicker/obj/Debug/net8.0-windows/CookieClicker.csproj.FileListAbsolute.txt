@@ -1,0 +1,17 @@
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\bin\Debug\net8.0-windows\CookieClicker.exe
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\bin\Debug\net8.0-windows\CookieClicker.deps.json
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\bin\Debug\net8.0-windows\CookieClicker.runtimeconfig.json
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\bin\Debug\net8.0-windows\CookieClicker.dll
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\bin\Debug\net8.0-windows\CookieClicker.pdb
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.Form1.resources
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.Properties.Resources.resources
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.csproj.GenerateResource.cache
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.AssemblyInfoInputs.cache
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.AssemblyInfo.cs
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.csproj.CoreCompileInputs.cache
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.dll
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\refint\CookieClicker.dll
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.pdb
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\CookieClicker.genruntimeconfig.cache
+C:\Users\s4rier00\source\repos\FormsTeht\CookieClicker\CookieClicker\obj\Debug\net8.0-windows\ref\CookieClicker.dll
